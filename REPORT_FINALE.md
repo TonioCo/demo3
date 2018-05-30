@@ -32,7 +32,9 @@
  Criteri di accettazione:
  
  -Verificare che sia possibile fare la richiesta da linea di comando
+ 
  -Verificare che l'output sia visualizzato su standard output
+ 
  -Verificare che sia possibile specificare il workspace
  -Verificare che ci sia un file esportato associato al workspace
  -Verificare che i Member siano visualizzati uno per riga
