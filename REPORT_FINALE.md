@@ -30,6 +30,7 @@
 
  In qualità di utente voglio visualizzare la lista dei Member issue#3
  Criteri di accettazione:
+ 
  -Verificare che sia possibile fare la richiesta da linea di comando
  -Verificare che l'output sia visualizzato su standard output
  -Verificare che sia possibile specificare il workspace
